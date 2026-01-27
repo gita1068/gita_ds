@@ -1,3 +1,5 @@
+## Colab Notebooks
+- Notebook 1:https://colab.research.google.com/drive/1IqFbNGdY66feO0qy03wmzSRxYbRwRHFY?usp=sharing
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Problem Statement
@@ -38,6 +40,7 @@ The full historical trader dataset exceeds GitHub’s file size limits and is th
 The dataset can be accessed using the official link provided in the assignment instructions.
 
 All analysis was performed in Google Colab using the original dataset.
+
 
 
 
