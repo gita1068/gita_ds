@@ -53,10 +53,16 @@ The dataset can be accessed using the official link provided in the assignment i
 
 All analysis was performed in Google Colab using the original dataset.
 
+## Behaviour vs Sentiment
+
+![Trade Count](outputs/trade_count_vs_sentiment.png)
+![Top vs Bottom](outputs/top_vs_bottom_trade_activity.png)
+![Win Rate](outputs/winrate_vs_sentiment.png)
 
 Update:
 Notebook refined to clearly address evaluation criteria including win-rate comparison,
 behavioral segmentation, and actionable strategy rules.
+
 
 
 
