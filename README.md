@@ -42,6 +42,12 @@ The dataset can be accessed using the official link provided in the assignment i
 All analysis was performed in Google Colab using the original dataset.
 
 
+Update:
+Notebook refined to clearly address evaluation criteria including win-rate comparison,
+behavioral segmentation, and actionable strategy rules.
+
+
+
 
 
 
