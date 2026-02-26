@@ -2,6 +2,18 @@
 - Notebook 1:https://colab.research.google.com/drive/1IqFbNGdY66feO0qy03wmzSRxYbRwRHFY?usp=sharing
 # Trader Behavior vs Market Sentiment Analysis
 
+## Key Finding (TL;DR)
+
+Traders react emotionally to market sentiment but profitability does not improve.
+
+Fear → Trading frequency spikes → Lower quality decisions  
+Greed → Confidence increases → No improvement in win rate  
+
+Top traders remain stable across sentiment regimes.
+Bottom traders change behavior based on sentiment.
+
+Conclusion:
+Consistency beats sentiment-driven trading.
 ## Problem Statement
 This analysis explores how trader behavior on Hyperliquid varies across different Bitcoin market sentiment regimes (Fear vs Greed), with a focus on profitability, risk-taking, and trade activity.
 
@@ -45,6 +57,7 @@ All analysis was performed in Google Colab using the original dataset.
 Update:
 Notebook refined to clearly address evaluation criteria including win-rate comparison,
 behavioral segmentation, and actionable strategy rules.
+
 
 
 
